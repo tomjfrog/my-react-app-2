@@ -2,5 +2,5 @@ projectPrefix: myreactapp2
 myRepo:
   gitProvider: Github_tomjfrog
   artifactory: jfrog_cloud
-  path: tomjfrog/my-react-app2
+  path: tomjfrog/my-react-app-2
   virtualRepo: myreactapp2-npm-dev-virtual
